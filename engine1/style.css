@@ -419,7 +419,7 @@
 	text-indent:0;
 	display:block;
 	bottom:15px;
-	left:-60px;
+	left:-75px;
 	visibility:hidden;
 	position:absolute;
     border: 5px solid #FFFFFF;
@@ -438,7 +438,7 @@
 	left:0;
 	overflow:hidden;
 	position:relative;
-	width:120px;
+	width:150px;
 	background-color:#FFFFFF;
 }
 #wowslider-container1  .ws_bullets .ws_bulframe{
